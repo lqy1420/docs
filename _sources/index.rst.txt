@@ -1,0 +1,22 @@
+.. Scenarioized product system docs documentation master file, created by
+   sphinx-quickstart on Wed Apr 24 10:52:28 2024.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+场景化产品系统
+============================================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   README
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
